@@ -5,6 +5,11 @@ Systems and signals project
 > [!IMPORTANT]
 > Read the report here it has everything (results, formula, codes) **[PDF](./project-report.pdf)**
 
+## Team Members:
+
+- Ahmed Hamdey
+- Amir Anwar
+
 - original
   ![original](./image1.png)
 
